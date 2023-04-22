@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          Sociopedia
+          VKSOCIALAPP
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
