@@ -14,8 +14,8 @@ I have added authentication, so users can now log in and sign up. Additionally, 
 
 **Deploy Link:** :  https://quiet-caramel-f3aa42.netlify.app/
 
-![](https://github.com/vinayakpagar23/ChatApp-Mern/blob/main/screenshots/profile1.png)
-![](https://github.com/vinayakpagar23/ChatApp-Mern/blob/main/screenshots/profile2.png)
+![](https://github.com/vinayakpagar23/socialMedia-mern/blob/main/screenshot/firstProfilepic%20(2).png)
+![](https://github.com/vinayakpagar23/socialMedia-mern/blob/main/screenshot/darkMode%20(2).png)
 ## Run Locally
 
 Clone the project
@@ -27,7 +27,8 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd ChatApp-Mern
+  cd socialMedia-mern
+
 ```
 
 Install dependencies
@@ -58,14 +59,17 @@ Start the Client
 # Features
 
 ### Authenticaton
-![](https://github.com/vinayakpagar23/ChatApp-Mern/blob/main/screenshots/loginpage.png)
-![](https://github.com/vinayakpagar23/ChatApp-Mern/blob/main/screenshots/signuppage.png)
-### Real Time Chatting with Typing indicators
-![](https://github.com/vinayakpagar23/ChatApp-Mern/blob/main/screenshots/typing%20status%20and%20one%20to%20one%20chatting.png)
-### One to One chat
-![](https://github.com/vinayakpagar23/ChatApp-Mern/blob/main/screenshots/typing%20status%20and%20one%20to%20one%20chatting.png)
-### Search Users
-![](https://github.com/vinayakpagar23/ChatApp-Mern/blob/main/screenshots/searchUser.png)
-### Create Group Chats
-![](https://github.com/vinayakpagar23/ChatApp-Mern/blob/main/screenshots/groupcreating.png)
+![](https://github.com/vinayakpagar23/socialMedia-mern/blob/main/screenshot/loginPage%20(2).png)
+![](https://github.com/vinayakpagar23/socialMedia-mern/blob/main/screenshot/signup%20(2).png)
+### DARK MODE
+![](https://github.com/vinayakpagar23/socialMedia-mern/blob/main/screenshot/darkMode%20(2).png)
+### Like POST
+![](https://github.com/vinayakpagar23/socialMedia-mern/blob/main/screenshot/like%20(2).png)
+### View Other User Profile
+![](https://github.com/vinayakpagar23/socialMedia-mern/blob/main/screenshot/view%20other%20user%20profile%20(2).png)
+### SEE other user profile
+![](https://github.com/vinayakpagar23/socialMedia-mern/blob/main/screenshot/view%20other%20user%20profile%20(2).png)
+### Responsive
+![](https://github.com/vinayakpagar23/socialMedia-mern/blob/main/screenshot/responsive1%20(2).png)
+![](https://github.com/vinayakpagar23/socialMedia-mern/blob/main/screenshot/responsive2.png)
 
