@@ -2,6 +2,8 @@
 I have added authentication, so users can now log in and sign up. Additionally, users can view posts from other users, like them, and add their own posts to the platform. The app also offers the ability to switch between light and dark themes for a personalized experience.
 # VKSOCIALMEDIA
 
+
+
 ## Tech Stack
 
 **Client:** React JS, Material UI , Redux
